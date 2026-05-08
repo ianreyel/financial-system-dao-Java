@@ -1,0 +1,3 @@
+interface Tributavel {
+    double calcularImposto();
+}
